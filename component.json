@@ -1,0 +1,14 @@
+{
+  "name": "cookies-js",
+  "description": "Client-Side Cookie Manipulation API",
+  "author": "Scott Hamper",
+  "homepage": "http://github.com/ScottHamper/Cookies",
+  "license": "MIT",
+  "keywords": ["cookies", "client", "browser"],
+  "main": "./src/cookies.js",
+  "scripts": [
+    "./src/cookies.js"
+  ],
+  "repository": "anyroadcom/Cookies",
+  "dependencies": {}
+}
